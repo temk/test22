@@ -2,7 +2,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>test-group</groupId>
-    <version>1.2.3-SNAPSHOT</version>
+    <version>1.2.3</version>
     <artifactId>test-artifact</artifactId>
 
     <name>Common</name>
@@ -10,7 +10,8 @@
 
 	<scm>
 		<developerConnection>scm:git:git@github.com:temk/test22.git</developerConnection>
-	</scm>
+	  <tag>test-artifact-1.2.3</tag>
+  </scm>
     
     <build>
 	<plugins>
