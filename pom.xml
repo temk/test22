@@ -7,7 +7,7 @@
 
     <name>Common</name>
     <description>Common Backend Server</description>
-
+	<packaging>pom</packaging>
 	<scm>
 		<developerConnection>scm:git:git@github.com:temk/test22.git</developerConnection>
 	  <tag>HEAD</tag>
