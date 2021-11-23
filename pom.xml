@@ -23,7 +23,7 @@
 		      <!--
 			        During release:perform, enable the "release" profile
 		       -->
-			   <!-- releaseProfiles>release</releaseProfiles -->
+			  <releaseProfiles>release</releaseProfiles>
 		    </configuration>
 		  </plugin>
 	</plugins>
