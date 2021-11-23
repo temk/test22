@@ -7,7 +7,6 @@
 
     <name>Common</name>
     <description>Common Backend Server</description>
-	<packaging>pom</packaging>
 	<scm>
 		<developerConnection>scm:git:git@github.com:temk/test22.git</developerConnection>
 	  <tag>HEAD</tag>
@@ -23,6 +22,8 @@
 		      <!--
 			        During release:perform, enable the "release" profile
 		       -->
+
+
 			  <releaseProfiles>release</releaseProfiles>
 		    </configuration>
 		  </plugin>
